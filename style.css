@@ -1,0 +1,15 @@
+header > img {
+    width: 850px;
+    height: 450px;
+    border: 1px;
+}
+
+.bold-text {
+    width: 850px;
+    height: 324px;
+    background-color: grey;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
