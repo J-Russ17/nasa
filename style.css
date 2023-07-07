@@ -44,6 +44,15 @@ h2 {
     font-family: 'Oswald', sans-serif;
 }
 
+#flex-start {
+    width: 200px;
+    height: 20px;
+    display: flex;
+    justify-content: flex-start;
+    margin: 35px;
+    font-family: 'Oswald', sans-serif;
+}
+
 pre {
     width: 200px;
     height: 150px;
@@ -73,5 +82,3 @@ button {
     margin-top: 5px;
     padding: 4px 12px;
 }
-
-
